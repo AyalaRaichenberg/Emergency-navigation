@@ -1,0 +1,50 @@
+<div class="container">
+  <form (ngSubmit)="onSubmit($event)">
+    <div *ngIf="part === 1">
+      <div class="emergency-report">
+        <label class="emergency-option ">
+          🔥 דווח על פריצת שריפה
+          <input type="radio" name="emergency" [(ngModel)]="emergencyModel.type" value="fire">
+          <span class="custom-radio"></span>
+        </label>
+
+        <label class="emergency-option ">          🚑 דווח על חולה
+          <input type="radio"  name="emergency" [(ngModel)]="emergencyModel.type" value="sick">
+          <span class="custom-radio"></span>
+        </label>
+
+        <label class="emergency-option ">
+          ⚠️ דווח על חדירת מחבל
+          <input type="radio" name="emergency" [(ngModel)]="emergencyModel.type"
+            value="terroristInfiltration">
+          <span class="custom-radio"></span>
+        </label>
+      </div>
+      <button (click)="send()">לסימון מיקום מדויק</button>
+    </div>
+    <div *ngIf="part === 2">
+      <label for="building">בחר קומה</label>
+      <div class="buildings-container">
+        <div *ngFor="let floor of floors" class="building-card">
+          <input type="radio" name="floor" [value]="floor.id" [(ngModel)]="floorId">
+          <span>{{ floor.floorNumber }}</span>
+        </div>
+      </div>
+      <button (click)="send()" >המשך</button>
+    </div>
+
+    <div *ngIf="part===3">
+      <label for="building">בחר חדר</label>
+      <div class="buildings-container">
+        <div *ngFor="let vertex of vertices" class="building-card">
+          <input type="radio" name="vertex" [value]="vertex" [(ngModel)]="emergencyModel.locationId">
+          <span>{{ vertex.roomNumber}}</span>
+        </div>
+      </div>
+    <button type="submit" class="buildings-container">דווח</button>
+</div>
+  </form>
+
+<div class="p">🔹 קומה נבחרה: {{ floorNumber }}</div>
+<div class="p1">🔹 חדר נבחר: {{ emergencyModel.locationId }}</div>
+</div>

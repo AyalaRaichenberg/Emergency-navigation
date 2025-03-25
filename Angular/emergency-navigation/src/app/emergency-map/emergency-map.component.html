@@ -1,0 +1,44 @@
+<div class="emergency-nav">
+  <div *ngIf="eventType === 'sick'">
+    <p id="title">🚨🚨🚨 מחפש דפריבילטור 🚨🚨🚨</p>
+  </div>
+
+  <div *ngIf="path">
+    <h3 class="path-title">מקום בטוח נמצא {{ path.length }} מטר לפניך, לך בעקבות החיצים</h3>
+
+    <div class="path-container">
+      <ng-container *ngFor="let step of path.navigation.$values; let last = last">
+        <div class="step-box">
+לך לחדר מספר {{ step.roomNumber }} 
+<div *ngIf="step.mainCharacterization?.name === 'protected room'">
+  חדר מוגן
+</div>
+<div *ngIf="step.mainCharacterization?.name === 'top floor'">
+  קומה עליונה
+</div>
+<div *ngIf="step.mainCharacterization?.name === 'staircase'">
+  מדרגות
+</div>
+<div *ngIf="step.mainCharacterization?.name === 'defribrelator'">
+  דפריברלטור
+</div>
+<div *ngIf="step.mainCharacterization?.name === 'entry'">
+  כניסה
+</div>
+<div *ngIf="step.secondCharacterization?.name === 'entry'">
+  כניסה
+</div>
+        </div>
+        <div  class="arrow-box">⬇️</div>
+      </ng-container>
+      <div class="step-box">
+        הגעת למקום בטוח, שמור על עצמך😃
+                </div>
+    </div>
+    
+  </div>
+
+  <div *ngIf="!path && eventType !== 'sick'">
+    <p class="error-msg">לא ניתן להציג את המסלול כרגע...</p>
+  </div>
+</div>

@@ -1,0 +1,272 @@
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\source\repos\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\user1\Downloads\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\jm_LlwoMOHZhUet5d1\jm_FZPyFybdm0anbyp\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\מחשבים\C# & Anglar project\C#\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\user1\Downloads\jm_V8AQzxXGYE2f9W8\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\user1\Downloads\פרויקט עם אבטחה 2.3.2025\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+D:\פרויקט מאפרת\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+D:\סי שארפ\מעודכן יום שלישי אחרי אבטחה\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\פרויקט C# הכי מעודכן מיום שישי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+D:\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+D:\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\jm_nummr1Wx3ky97jE\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\C# פרויקט סופי\EmergencyNavigation\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.deps.json
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.runtimeconfig.json
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.dll
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\bin\Debug\net8.0\EmergencyNavigation.Core.pdb
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.AssemblyInfo.cs
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\Emergenc.423E7C3B.Up2Date
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\refint\EmergencyNavigation.Data.dll
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.pdb
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\EmergencyNavigation.Data.genruntimeconfig.cache
+C:\Users\123\Desktop\מחשבים\C# פרויקט סופי\EmergencyNavigation-C#\EmergencyNavigation.Data\obj\Debug\net8.0\ref\EmergencyNavigation.Data.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4516DF-6DC5-486A-86A1-56A5E78F4A3D}|EmergencyNavigation.Service\\EmergencyNavigation.Service.csproj|c:\\users\\123\\desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\c# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\emergencynavigation-c#\\emergencynavigation.service\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4516DF-6DC5-486A-86A1-56A5E78F4A3D}|EmergencyNavigation.Service\\EmergencyNavigation.Service.csproj|solutionrelative:emergencynavigation.service\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0158ADF-314C-451D-90FC-4F008516FA70}|EmergencyNavigation.Data\\EmergencyNavigation.Data.csproj|c:\\users\\123\\desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\c# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\emergencynavigation-c#\\emergencynavigation.data\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0158ADF-314C-451D-90FC-4F008516FA70}|EmergencyNavigation.Data\\EmergencyNavigation.Data.csproj|solutionrelative:emergencynavigation.data\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCF2E0C-CB7B-4FAC-9ED4-DBE8BC1402CC}|EmergencyNavigation.API\\EmergencyNavigation.API.csproj|c:\\users\\123\\desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\c# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\emergencynavigation-c#\\emergencynavigation.api\\controllers\\floorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCF2E0C-CB7B-4FAC-9ED4-DBE8BC1402CC}|EmergencyNavigation.API\\EmergencyNavigation.API.csproj|solutionrelative:emergencynavigation.api\\controllers\\floorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCF2E0C-CB7B-4FAC-9ED4-DBE8BC1402CC}|EmergencyNavigation.API\\EmergencyNavigation.API.csproj|c:\\users\\123\\desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\c# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\emergencynavigation-c#\\emergencynavigation.api\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCF2E0C-CB7B-4FAC-9ED4-DBE8BC1402CC}|EmergencyNavigation.API\\EmergencyNavigation.API.csproj|solutionrelative:emergencynavigation.api\\controllers\\buildingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.Data\\Repositories\\FloorRepository.cs",
+              "RelativeDocumentMoniker": "EmergencyNavigation.Data\\Repositories\\FloorRepository.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.Data\\Repositories\\FloorRepository.cs",
+              "RelativeToolTip": "EmergencyNavigation.Data\\Repositories\\FloorRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:24:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloorController.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.API\\Controllers\\FloorController.cs",
+              "RelativeDocumentMoniker": "EmergencyNavigation.API\\Controllers\\FloorController.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.API\\Controllers\\FloorController.cs",
+              "RelativeToolTip": "EmergencyNavigation.API\\Controllers\\FloorController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:03:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildingController.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.API\\Controllers\\BuildingController.cs",
+              "RelativeDocumentMoniker": "EmergencyNavigation.API\\Controllers\\BuildingController.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.API\\Controllers\\BuildingController.cs",
+              "RelativeToolTip": "EmergencyNavigation.API\\Controllers\\BuildingController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0cAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:02:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.Service\\BuildingService.cs",
+              "RelativeDocumentMoniker": "EmergencyNavigation.Service\\BuildingService.cs",
+              "ToolTip": "C:\\Users\\123\\Desktop\\\u05DE\u05D7\u05E9\u05D1\u05D9\u05DD\\C# \u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\EmergencyNavigation-C#\\EmergencyNavigation.Service\\BuildingService.cs*",
+              "RelativeToolTip": "EmergencyNavigation.Service\\BuildingService.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvyUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:59:13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

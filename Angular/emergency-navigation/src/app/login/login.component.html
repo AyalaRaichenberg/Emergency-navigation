@@ -1,0 +1,18 @@
+<h2>לקבלת התרעות התחבר למערכת</h2>
+<form (ngSubmit)="onSubmit($event)">
+  <label for="email">אימייל:</label>
+  <input type="email" name="email" [(ngModel)]="loginModel.email" required #email="ngModel">
+  <div *ngIf="email.invalid && email.touched" style="color: red;">
+    * נא להזין כתובת אימייל
+  </div>
+  <label for="password">סיסמה:</label>
+  <input type="password" name="password" [(ngModel)]="loginModel.password" required minlength="4" #password="ngModel">
+  <div *ngIf="password.invalid && password.touched" style="color: red;">
+    * סיסמה נדרשת (לפחות 6 תווים)
+  </div>
+  <button type="submit" [disabled]="loginModel.invalid">התחבר</button>
+  <div *ngIf="errorMessage" style="color: red; margin-top: 10px;">
+    {{ errorMessage }}
+  </div>
+</form>
+

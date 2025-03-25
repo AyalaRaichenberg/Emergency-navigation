@@ -1,0 +1,219 @@
+/* סגנון כללי לעמוד */
+body {
+  font-family: 'Varela Round', sans-serif;
+  background: linear-gradient(to right, #00c6ff, #0072ff); /* רקע גרדיאנט תכלת */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+  flex-direction: column;
+}
+
+/* תיבת הטופס */
+form {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  width: 80%;
+  max-width: 420px;
+  text-align: center;
+  animation: fadeIn 1s ease-in-out;
+  margin-left: 33%;
+  box-sizing: border-box;
+  height: auto; /* גובה אוטומטי */
+  margin-top: 3%;
+  background-color:rgb(252, 244, 236); 
+ 
+}
+
+/* כותרת */
+h2 {
+  color: #575755;
+  margin-top: 7%;
+  font-size: 25px;
+  margin-bottom: 20px; 
+  margin-left: 37%;
+}
+
+/* תוויות */
+label {
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: right;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+/* שדות קלט */
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 2px solid #5f3e38;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  background: #eaded4;
+  box-sizing: border-box;
+}
+
+input:focus {
+  border-color: #c06a57;
+  outline: none;
+  background: #fff5e6;
+}
+
+/* הודעות שגיאה */
+div[style="color: red;"] {
+  font-size: 14px;
+  text-align: right;
+  color: red;
+  margin-bottom: 10px;
+}
+
+/* כפתור התחברות */
+button {
+  margin-top: 5%;
+  background: #030303;
+  color: rgb(239, 236, 218);
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+  background: #5c564c;
+  transform: scale(1.05);
+}
+
+/* אפקט אנימציה */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* עיצוב רספונסיבי */
+@media (max-width: 768px) {
+  form {
+    width: 100%;
+    max-width: 95%;
+    padding: 15px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  input {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  button {
+    font-size: 16px;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 20px;
+  }
+
+  input, button {
+    font-size: 14px;
+    padding: 8px;
+  }
+}
+.buildings-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.building-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px 20px;
+  width: 260px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.building-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+}
+
+.building-card input[type="radio"] {
+  margin-bottom: 8px;
+  transform: scale(1.2);
+}
+
+.building-card span {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 16px;
+  color: #333;
+}
+
+.building-card button {
+  margin-top: auto;
+  align-self: center;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.building-card button:hover {
+  background-color: #45a049;
+}
+.card-content {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.card-content .icon {
+  margin-left: 18px;
+  font-size: 18px;
+}
+
+.card-content .text {
+  flex-grow: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #333;
+}

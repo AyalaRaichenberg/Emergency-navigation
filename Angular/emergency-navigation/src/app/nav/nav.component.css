@@ -1,0 +1,165 @@
+.header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #e0e1dd;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 20px;
+  z-index: 100;
+}
+
+.menu-icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 22px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.bar {
+  width: 100%;
+  height: 3px;
+  background-color: #0d1b2a;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(31, 21, 21, 0.5);
+  z-index: 200;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.sidebar-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+/* .text span {
+  position: absolute;
+  z-index: 500;
+} */
+
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: -300px;
+  width: 300px;
+  height: 100%;
+  background-color: #e0e1dd;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+  z-index: 300;
+  padding: 60px 0 20px;
+  transition: right 0.3s ease;
+  direction: rtl;
+}
+
+.sidebar.open {
+  right: 0;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.nav-list {
+  list-style: none;
+  
+  width: 100%;
+  
+}
+
+.nav-list li {
+  width: 100%;
+  border-bottom: px solid #15170f;
+}
+
+.text{
+  color: #e40f0f;
+  font-size: 35px;
+  font-style: oblique;
+  text-align: justify;
+  padding-left: 750px;
+  
+}
+
+
+.nav-list li a {
+  display: block;
+  padding: 15px 20px;
+  color: #0d1b2a;
+  text-decoration: none;
+  font-size: 25px;
+  transition: all 0.2s ease;
+}
+
+.nav-list li a:hover,
+.nav-list li a.active {
+  background-color: #e0e1dd;
+  color: #0066cc;
+  font-size: 40;
+}
+
+.emergency-nav {
+  padding: 20px;
+  
+}
+
+.emergency-nav .nav-list li a {
+  font-size: 18px;
+}
+
+.home-icon {
+  font-size: 240px;
+  cursor: pointer;
+  color: rgb(236, 236, 236);
+  position: relative;
+  z-index: 10;
+}
+
+.home-icon:hover {
+  color: #0d1b2a;
+}
+.close-btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 24px;
+  color: #000000;
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.close-btn:hover {
+  color: red;
+}
+
+
+.home-icon {
+  position: relative;
+  right: 207vh;
+  top: 10%;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 250px;
+  }
+}

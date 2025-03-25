@@ -1,0 +1,44 @@
+.emergency-nav {
+    position: fixed;
+    top: 50%;
+    right: 40%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .emergency-nav button {
+    background-color: #d32f2f; /* צבע אדום כהה */
+    margin-top: 3%;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    text-align: right;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .emergency-nav button:hover {
+    background-color: #b71c1c;
+    transform: scale(1.05);
+  }
+  h2 {
+    color: #575755;
+    font-size: 25px;
+    margin-bottom: 20px; 
+    margin-left: 40%;
+  }
+  

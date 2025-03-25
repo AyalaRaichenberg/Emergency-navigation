@@ -1,0 +1,25 @@
+
+<div *ngIf="alerts && alerts.length > 0; else noAlerts">
+    <h2>התראות חירום:</h2>
+    <ul>
+      <li *ngFor="let alert of alerts">
+        <p>סוג התראה: {{ alert.alertType }}</p>
+        <p>תיאור: {{ alert.description }}</p>
+      </li>
+    </ul>
+  </div>
+  
+  <ng-template #noAlerts>
+    <p>אין התראות כרגע.</p>
+  </ng-template>
+
+<!-- 
+  <div *ngIf="alerts.length > 0">
+    <h3>התראות חרום:</h3>
+    <ul>
+      <li *ngFor="let alert of alerts">{{ alert }}</li>
+    </ul>
+  </div>
+  <div *ngIf="alerts.length === 0">
+    <p>אין התראות חרום כרגע.</p>
+  </div> -->

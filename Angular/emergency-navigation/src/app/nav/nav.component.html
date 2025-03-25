@@ -1,0 +1,76 @@
+<div class="header">
+  <div class="home-icon">
+    <i class="fas fa-home"></i>
+  </div>
+  <div class="text">
+    <span> ניווט במקרה חרום </span>
+  </div>
+  <div class="menu-icon" (click)="toggleSidebar()">
+
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</div>
+
+<div class="sidebar-overlay" [class.active]="isSidebarOpen" (click)="closeSidebar()"></div>
+<div class="sidebar" [class.open]="isSidebarOpen">
+  <div class="close-icon" (click)="toggleSidebar()">
+    <div class="bar bar1"></div>
+    <div class="bar bar2"></div>
+  </div>
+  <div class="close-btn" (click)="toggleSidebar()">✖</div>
+
+  <nav class="navbar">
+    <ul class="nav-list">
+      <li><a (click)="signUp()">התחברות ➡️</a></li>
+      <li><a (click)="login()">הרשמה</a></li>
+    </ul>
+  </nav>
+
+  <nav class="emergency-nav">
+    <ul class="nav-list">
+      <li><a (click)="navigate()">🚨 דיווח על מצב חירום</a></li>
+      <li><a (click)="navigateInEmegrencySituation()">🗺️ הצגת ניווט במצב חירום</a></li>
+      <li><a (click)="findDefibrillator()">⚡ חיפוש דפריבילטור</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="header">
+  <div class="home-icon">
+    <i class="fas fa-home"></i>
+  </div>
+  <div class="text">
+    <span>הדרך הבטוחה שלך 💪  </span>
+  </div>
+  <div class="menu-icon" (click)="toggleSidebar()">
+
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+</div>
+
+<div class="sidebar-overlay" [class.active]="isSidebarOpen" (click)="closeSidebar()"></div>
+<div class="sidebar" [class.open]="isSidebarOpen">
+  <div class="close-icon" (click)="toggleSidebar()">
+    <div class="bar bar1"></div>
+    <div class="bar bar2"></div>
+  </div>
+  <div class="close-btn" (click)="toggleSidebar()">✖</div>
+
+  <nav class="navbar">
+    <ul class="nav-list">
+      <li><a (click)="signUp()">הרשמה </a></li>
+      <li><a (click)="login()">התחברות ➡️</a></li>
+    </ul>
+  </nav>
+
+  <nav class="emergency-nav">
+    <ul class="nav-list">
+      <li><a (click)="navigate()">🚨 דיווח על מצב חירום</a></li>
+      <li><a (click)="navigateInEmegrencySituation()">🗺️ הצגת ניווט במצב חירום</a></li>
+      <li><a (click)="findDefibrillator()">⚡ חיפוש דפריבילטור</a></li>
+    </ul>
+  </nav>
+</div>
